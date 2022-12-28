@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoneeoX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://zoniiquotesidk.netlify.app)
+![]([https://zoniiquotesidk.netlify.app](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zoneeoX&icon=3&color=6)](https://visitcount.itsvg.in)
