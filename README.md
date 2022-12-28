@@ -1,4 +1,4 @@
-![yes](https://user-images.githubusercontent.com/26033026/209752095-a1cd89a0-62c5-40d8-9d5c-85bbd093c5ab.gif)
+![yes_1](https://user-images.githubusercontent.com/26033026/209754298-157d1f5d-e809-4d68-b7ba-7565748e452f.gif)
 
 
 # 💫 About Me:
