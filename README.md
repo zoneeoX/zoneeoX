@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a freelancer, freelancing as a Full Stack Web Developer<br>🌱 I’m currently focusing and striving on becoming a better Web Developer every single time i breathe<br>🌐 You can contact me through: Twitter @zoneeoX, Discord Zon.#2561
+🔭 I’m a Web Developer Wizard, I Want all the money in the world<br>🌱 I’m currently focusing and striving on becoming a better Web Developer every single time i breathe<br>🌐 You can contact me through: Twitter @zoneeoX, Discord Zon.#2561
 
 
 ## 🌐 Socials:
