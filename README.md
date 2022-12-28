@@ -1,3 +1,6 @@
+![yes](https://user-images.githubusercontent.com/26033026/209752095-a1cd89a0-62c5-40d8-9d5c-85bbd093c5ab.gif)
+
+
 # 💫 About Me:
 🔭 I’m a Web Developer Wizard, I Want all the money in the world<br>🌱 I’m currently focusing and striving on becoming a better Web Developer every single time i breathe<br>🌐 You can contact me through: Twitter @zoneeoX, Discord Zon.#2561
 
