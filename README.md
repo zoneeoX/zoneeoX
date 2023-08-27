@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 Currently a Fullstack Web Developer, favorite hobby is only playing video games.
+🔭 Currently a Fullstack Web Developer and also exploring & learning Machine Learning, favorite hobby is only playing video games.
 
 
 ## 🌐 Socials:
