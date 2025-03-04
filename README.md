@@ -6,10 +6,10 @@
 
 # 🛠️ Projects I've Worked On:
 🐱 WordNeko – A word-guessing game with a playful twist, blending cute aesthetics with brain-teasing challenges. Inspired by Wordle but with its own unique flavor.
+
 🛡️ Rust Offline Notification System – A handy tool designed for Rust players to track the online status of specific players and groups, sending notifications when they go offline. It also supports exporting groups to JSON for future use.
+
 🎶 ShuushLofi – A minimalist lofi music player designed to create a calm, focused atmosphere. Simple interface, curated tracks, and perfect for studying, working, or just chilling.
-
-
 
 
 ## 🌐 Socials:
