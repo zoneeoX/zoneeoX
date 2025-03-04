@@ -5,7 +5,7 @@
 🔭 Currently a wanderer.
 
 # 🛠️ Projects I've Worked On:
-🐱 WordNeko – A word-guessing game with a playful twist, blending cute aesthetics with brain-teasing challenges. Inspired by Wordle but with its own unique flavor.
+🐱 WordNeko – A word-guessing game with a playful twist, blending cute aesthetics with brain-teasing challenges, with a current 3 games that you can play.
 
 🛡️ Rust Offline Notification System – A handy tool designed for Rust players to track the online status of specific players and groups, sending notifications when they go offline. It also supports exporting groups to JSON for future use.
 
